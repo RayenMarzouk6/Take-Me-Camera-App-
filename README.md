@@ -10,12 +10,16 @@ Welcome to **TAKE ME**, an intuitive Android application designed to capture and
 ## **🎨 Design Preview**
 Take a look at the project’s interface crafted with attention to detail.
 
-🔗 [Figma Design Link](https://example.com)
+🔗 [Figma Design Link]([https://example.com](https://www.figma.com/design/SH3T5bCGiNaQ0Z2obm5zgz/Take-Me?node-id=0-1&t=itXdoK9hnrBtIRbs-1))
 
 ## **🎥 Demo Video**
 Watch the application in action!
 
-🔗 [Video Demonstration](https://example.com)
+
+
+https://github.com/user-attachments/assets/f3743b5f-6eac-4987-aff1-1d6dc30b0652
+
+
 
 ---
 
