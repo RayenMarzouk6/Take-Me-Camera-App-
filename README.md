@@ -1,6 +1,7 @@
 # **📸 TAKE ME - Android Camera Application**
 
 ![logo](https://github.com/user-attachments/assets/fb3d7304-8022-4f4e-b70e-b5c4f0083980)
+
 Welcome to **TAKE ME**, an intuitive Android application designed to capture and manage your favorite moments effortlessly.
 
 ## **🌟 Features**
